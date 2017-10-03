@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:xenial
 MAINTAINER ASCDC <asdc.sinica@gmail.com>
 
 RUN mkdir /script
